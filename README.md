@@ -12,25 +12,25 @@ This is a project admin dashboard for The Odin Project. It is a simple dashboard
 ![Project Design Template](./dashboard-project.png)
 
 ## To do
-- [ ] Sidebar
-    - [ ] Profile
-    - [ ] Messages
-    - [ ] History
-    - [ ] Tasks
-    - [ ] Communities
-    - [ ] Settings
-    - [ ] Support
-    - [ ] Privacy
+- [x] Sidebar
+    - [x] Profile
+    - [x] Messages
+    - [x] History
+    - [x] Tasks
+    - [x] Communities
+    - [x] Settings
+    - [x] Support
+    - [x] Privacy
 ---
 
-- [ ] Navbar
-    - [ ] Search
-    - [ ] Notifications
-    - [ ] Profile Picture
-    - [ ] Profile Name
-    - [ ] New Button
-    - [ ] Upload Button
-    - [ ] Share Button
+- [x] Navbar
+    - [x] Search
+    - [x] Notifications
+    - [x] Profile Picture
+    - [x] Profile Name
+    - [x] New Button
+    - [x] Upload Button
+    - [x] Share Button
 ---
 
 - [ ] Main content

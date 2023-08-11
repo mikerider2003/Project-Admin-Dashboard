@@ -1,0 +1,48 @@
+:root {
+    --color-1: #5B9A8B;
+    --color-2: ;
+    --color-3: ;
+    --color-4: white;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+aside {
+    background-color: var(--color-1);
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.section {
+    margin: 2rem 0 2rem;
+}
+
+aside button {
+    width: 100%;
+    background-color: var(--color-1);
+    border: 2px var(--color-1) solid;
+    border-radius: 3px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 15px;
+}
+
+aside button:hover {
+    background-color: var(--color-4);
+    border: 2px var(--color-4) solid;
+}
+
+.bigger-button {
+    font-size: 1.8rem;
+}

@@ -2,14 +2,18 @@
 
 ## Table of Contents
 - [Description](#description)
+- [Final Result](#final-result)
 - [Project Design Template](#project-design-template)
 - [To do](#to-do)
 
 ## Description
 This is a project admin dashboard for The Odin Project. It is a simple dashboard created using only html and css to practice flexbox and grid. 
 
+## Final Result
+![Final Result](./dashboard-result.png)
+
 ## Project Design Template
-![Project Design Template](./dashboard-project.png)
+![Project Design Template](./dashboard-project.png) 
 
 ## To do
 - [x] Sidebar
@@ -33,8 +37,8 @@ This is a project admin dashboard for The Odin Project. It is a simple dashboard
     - [x] Share Button
 ---
 
-- [ ] Main content
-    - [ ] Your Projects
-    - [ ] Anouncements
-    - [ ] Trending
+- [x] Main content
+    - [x] Your Projects
+    - [x] Anouncements
+    - [x] Trending
 

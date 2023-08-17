@@ -3,6 +3,7 @@
     --color-2: #DDE6ED;
     --color-3: #F7E987;
     --color-4: white;
+    --color-5: black;
 }
 
 * {
@@ -212,4 +213,8 @@ hr {
     display: flex;
     align-items: center;
     gap: 1rem;
+}
+
+button {
+    color: black;
 }
